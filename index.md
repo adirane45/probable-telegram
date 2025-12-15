@@ -1,18 +1,22 @@
-# Hi there, I'm Aditya Rane! 👋
+![Abstract Cybersecurity Concept with binary code and lock](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1470&auto=format&fit=crop)
 
-### 🔐 Cybersecurity Enthusiast | 🎓 MCA Student
+# Hi there, I'm Aditya! 👋
 
-I am currently pursuing my **Master of Computer Applications (MCA)** and have a strong passion for **Cybersecurity**, **Network Security**, and **Ethical Hacking**. I am always eager to learn about new vulnerabilities, defense strategies, and secure coding practices.
+### 🔐 Cybersecurity Analyst | 🎓 MCA Student
+
+I am a dedicated **Cybersecurity Analyst** based in **Jalgaon, India** with 2+ years of experience in analyzing, defending, and securing digital infrastructures. I am passionate about protecting systems from emerging threats, participating in CTF competitions, and building resilient digital defenses.
 
 ---
 
 ### 🧐 About Me
 
-- 🎓 I’m currently an **MCA Student**.
-- 🔭 I’m currently working on improving my **Penetration Testing skills**.
-- 🌱 I’m currently learning **Network Protocols and Cryptography**.
-- 💬 Ask me about **Cybersecurity, Linux, and Python for Security**.
-- 📫 How to reach me: **adityrane45@gmail.com**
+- 🛡️ **Current Role:** Cybersecurity Analyst protecting data and preventing breaches.
+- 🎓 **Education:** Master of Computer Applications (MCA).
+- 🔭 **Working On:** Vulnerability analysis and robust security protocols.
+- ⚡ **Interests:** Network Protocols, Cryptography, and Open Source Security Tools.
+- 🌍 **Location:** Jalgaon, Maharashtra, India.
+- 🌐 **Portfolio:** [justadi.dpdns.org](https://justadi.dpdns.org)
+- 📫 **Contact:** adityrane45@gmail.com
 
 ---
 
@@ -20,18 +24,18 @@ I am currently pursuing my **Master of Computer Applications (MCA)** and have a 
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Cybersecurity & Tools:**
+**Security & Analysis:**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-MOD-blue?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Databases & Others:**
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+**Other Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -46,8 +50,10 @@ I am currently pursuing my **Master of Computer Applications (MCA)** and have a 
 
 ### 🤝 Connect with Me
 
+[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[website]: https://justadi.dpdns.org
 [linkedin]: https://linkedin.com/in/aditya-rane-a912004r
 [twitter]: https://twitter.com/[your-twitter-handle]
