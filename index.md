@@ -1,6 +1,6 @@
-![Abstract Cybersecurity Concept with binary code and lock](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1470&auto=format&fit=crop)
+![Abstract Cybersecurity Concept](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1470&auto=format&fit=crop)
 
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Aditya Rane! 👋
 
 ### 🔐 Cybersecurity Analyst | 🎓 MCA Student
 
@@ -16,7 +16,34 @@ I am a dedicated **Cybersecurity Analyst** based in **Jalgaon, India** with 2+ y
 - ⚡ **Interests:** Network Protocols, Cryptography, and Open Source Security Tools.
 - 🌍 **Location:** Jalgaon, Maharashtra, India.
 - 🌐 **Portfolio:** [justadi.dpdns.org](https://justadi.dpdns.org)
-- 📫 **Contact:** adityrane45@gmail.com
+- 📫 **Contact:** [adityrane45@gmail.com](mailto:adityrane45@gmail.com)
+
+---
+
+### 💻 A Taste of My Code
+
+Here is a simple Python snippet for scanning ports, essential for vulnerability assessment:
+
+```python
+import socket
+
+target = "127.0.0.1" 
+
+def port_scan(port):
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(0.5)
+        result = sock.connect_ex((target, port))
+        if result == 0:
+            print(f"[+] Port {port} is OPEN")
+        sock.close()
+    except:
+        pass
+
+# Scanning the first 1024 ports
+for port in range(1, 1025):
+    port_scan(port)
+```
 
 ---
 
@@ -52,8 +79,6 @@ I am a dedicated **Cybersecurity Analyst** based in **Jalgaon, India** with 2+ y
 
 [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://justadi.dpdns.org
 [linkedin]: https://linkedin.com/in/aditya-rane-a912004r
-[twitter]: https://twitter.com/[your-twitter-handle]
