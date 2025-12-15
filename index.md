@@ -82,3 +82,17 @@ for port in range(1, 1025):
 
 [website]: https://justadi.dpdns.org
 [linkedin]: https://linkedin.com/in/aditya-rane-a912004r
+
+
+
+
+
+### 🎯 My Goals & Tasks
+
+- [x] Learn Python Basics
+- [x] Set up Kali Linux environment
+- [ ] Master Network Penetration Testing
+- [ ] Earn CEH (Certified Ethical Hacker) Certification
+- [ ] Contribute to an Open Source Security Tool
+
+
